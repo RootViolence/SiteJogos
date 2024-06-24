@@ -13,7 +13,7 @@ body {
 .header {
     .nav {
         background: #000000;
-        height: 6em;
+        height: 100%;
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -55,3 +55,7 @@ body {
         color: #640b64
     }
 }
+.preto {
+    background-color: black;
+}
+
