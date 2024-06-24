@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TeachPlay</title>
+    <title>SK GAMES</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon shortcut" href="imagens/logos/TachPlayINVETIDO.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,7 +16,7 @@
     <header class="header">
         <nav class="nav">
 
-            <a class="logo" href="home">Tech Play</a>
+            <a class="logo" href="home">SK GAMES</a>
 
             <ul class="nav-list">
 
@@ -57,11 +57,10 @@
         }
         ?>
     </main>
-    
 </body>
 <footer>
 
-    <p>Desenvolvido Por : <a href="https://github.com/DemonSinox" target="_blank">Lucas Henrique Vieira</a></p>
+    <p>Desenvolvido Por : <a href="#" target="_blank">Guilherme Mendes</a></p>
 
 </footer>
 
